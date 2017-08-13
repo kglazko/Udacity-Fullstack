@@ -19,10 +19,14 @@ hr {
 .bigImg {
 	margin-bottom: 3%;
 	margin-top: 3%;
+	height:100%;
+	width:100%;
 }
 
 .smallImg {
 	margin:3%;
+	height:90%;
+	width:90%;
 }
 
 h1 {
@@ -53,12 +57,12 @@ h4 {
 	text-transform: uppercase;
 	font-size: 28px;
 	color: #293c49;
-	margin-left: 20%;
+	margin-left: 15%;
 	letter-spacing: 5px;
 }
 
 p {
 	color: #7d97ad;
-	margin-left: 20%;
+	margin-left: 15%;
 	letter-spacing: 3px;
 }
